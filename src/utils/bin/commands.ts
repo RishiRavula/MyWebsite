@@ -93,7 +93,7 @@ export const nvim = async (args: string[]): Promise<string> => {
 };
 
 export const emacs = async (args?: string[]): Promise<string> => {
-  return `'emacs'? too fancy. why not 'nvim'`;
+  return `'emacs'? too fancy. why not 'nvim'?`;
 };
 
 export const sudo = async (args?: string[]): Promise<string> => {
