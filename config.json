@@ -11,7 +11,7 @@
   "ps1_hostname": "myserver",
   "ps1_username": "visitor",
   "repo": "https://github.com/RishiRavula/MyWebsite",
-  "resume_url": "https://github.com/RishiRavula/MyResume/blob/main/Rishi_Ravula.pdf",
+  "resume_url": "https://github.com/RishiRavula/MyResume/tree/main",
   "colors": {
     "light": {
       "background": "#F4FBF4",
